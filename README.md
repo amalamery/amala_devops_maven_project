@@ -1,0 +1,1 @@
+# amala_devops_maven_project
