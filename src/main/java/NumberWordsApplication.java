@@ -37,5 +37,7 @@ public class NumberWordsApplication
 	public static void main(String[] args) throws IOException 
 	{
 		new NumberWordsApplication().execute() ;
+		System.out.println( "Executed" ) ;
+
 	}
 }
